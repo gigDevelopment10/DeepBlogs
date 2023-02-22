@@ -14,6 +14,8 @@ st.markdown('To put this in simple words **Auto-grad influences back-propagation
 
 st.markdown('It is meant to automatically calculate the **derivatives of a function**, freeing the user from the manual and error-prone calculation of derivatives, making it easier to implement complex models and perform optimization.')
 
+
+
 st.image(image_1, caption='Some powerful auto-grad libraries', use_column_width=True)
 
 st.markdown('Here is a list of some powerful auto-grad libraries that will help you get your neural network stronger')
